@@ -1,0 +1,1 @@
+This project examines the census data of a town to gain insight into key demographic factors.  The insight gained is then used to inform the decision-making process on what to build on an unoccupied expanse of land and where to invest Government funds. 
